@@ -1,5 +1,13 @@
 ## PMLV2 v0.1.8 plans (2022-11-19)
 
+## Current work
+
+- <https://github.com/gee-hydro/Whittaker2.jl>
+
+- <https://github.com/kongdd/Global_MODIS_LAI_Smoothing.jl>
+
+- <https://github.com/gee-hydro/gee_smooth>
+
 ## TODO
 
 1. 发布新版LAI除噪算法
